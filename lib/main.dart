@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "ToDo  App",
+      title: "Bone Aid",
       home: SplashScreen(),
     );
   }
